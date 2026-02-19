@@ -3,6 +3,8 @@ Swap the contents of two strings without using any extra temporary string variab
 Input: str1 = "hello", str2 = "world"
 Output: str1 = "world", str2 = "hello"
 */
+
+
 #include<stdio.h>
 #include<string.h>
 int main()
