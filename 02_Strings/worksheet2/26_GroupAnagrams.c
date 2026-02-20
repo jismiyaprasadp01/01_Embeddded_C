@@ -5,7 +5,6 @@ Output: ["cat", "tac", "act"], ["dog"]
 */
 #include <stdio.h>
 #include <string.h>
-
 void sort_string(char *s)
 {
     int i, j;
