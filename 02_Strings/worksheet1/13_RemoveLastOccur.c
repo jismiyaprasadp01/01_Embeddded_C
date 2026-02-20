@@ -1,3 +1,9 @@
+/*
+Program: Remove last occurrence of a character from string
+          Input: "mississippi", remove 's'
+
+          Output: "missipippi"
+*/
 #include<stdio.h>
 #include<string.h>
 int main()

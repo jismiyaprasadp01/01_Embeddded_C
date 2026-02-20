@@ -1,3 +1,8 @@
+/*
+Program: Find all occurrences of a word in given string
+        Input: "the sky is the limit in the sky", search "the"
+       Output: Found at positions: 0, 15, 30
+*/
 #include<stdio.h>
 #include<string.h>
 int main()

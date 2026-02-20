@@ -1,3 +1,11 @@
+/*
+Program: Count occurrences of a word in a given string
+          Input: "hi hello hi hey hi", word: "hi"
+
+http://192.168.2.101/link/252#bkmrk-output%3A-3
+ 
+         Output: 3
+*/
 #include<stdio.h>
 #include<string.h>
 int main()

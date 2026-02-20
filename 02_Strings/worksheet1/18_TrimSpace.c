@@ -1,3 +1,11 @@
+/*
+Program: Trim both leading and trailing white space characters from given string
+        Input: " Hello World "
+
+http://192.168.2.101/link/252#bkmrk-output%3A-%22hello-world
+ 
+        Output: "Hello World"
+*/
 #include<stdio.h>
 #include<string.h>
 int main()

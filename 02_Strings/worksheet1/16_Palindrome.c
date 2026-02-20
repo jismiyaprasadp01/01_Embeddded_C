@@ -1,3 +1,11 @@
+/*
+Program: Check whether a string is palindrome or not
+        Input: "madam"
+
+http://192.168.2.101/link/252#bkmrk-output%3A-%22palindrome%22
+ 
+       Output: "Palindrome"
+*/
 #include<stdio.h>
 #include<string.h>
 int main()

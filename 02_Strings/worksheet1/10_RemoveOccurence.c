@@ -1,3 +1,9 @@
+/*
+Program: Remove all occurrence of a word in given string
+           Input: "hello world hello universe", remove: "hello"
+ 
+          Output: "world universe"
+*/
 #include<stdio.h>
 #include<string.h>
 void rem(char* a,char* b)

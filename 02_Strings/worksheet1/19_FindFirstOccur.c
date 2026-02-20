@@ -1,3 +1,9 @@
+/*
+Program: Find first occurrence of a character in a given string
+       Input: "elephant", find 'e'
+
+        Output: Position: 0
+*/
 #include<stdio.h>
 int main()
 {

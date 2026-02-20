@@ -1,8 +1,5 @@
 /*Program: Count total number of words in a string
 Input: "C programming is fun"
-
-http://192.168.2.101/link/252#bkmrk-output%3A-4
-
 Output: 4
  */
 #include<stdio.h>
